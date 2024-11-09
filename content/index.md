@@ -3,8 +3,7 @@ Title: Home
 Description: This is our index page.
 ---
 
-
-Tayler Fatt portfolio
+Tayler Fattoum portfolio
 ==========================
 
 The source for this page is in `content/index.md`.
