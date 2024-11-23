@@ -1,0 +1,59 @@
+/* Dokumentnivå */
+html {
+  line-height: 1.15;
+  text-size-adjust: 100%;
+}
+  
+body {
+  margin: 0;
+}
+  
+/* Rubriker */
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+  
+/* Länkar */
+a {
+  background-color: transparent;
+}
+  
+/* Listor */
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}
+  
+/* Bilder */
+img {
+  border-style: none;
+}
+  
+/* Tabeller */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+  
+caption {
+  text-align: left;
+}
+  
+/* Formelement */
+button,
+input,
+select,
+textarea {
+  font: inherit;
+  margin: 0;
+}
+  
+button {
+  overflow: visible;
+}
+  
+textarea {
+  overflow: auto;
+}
